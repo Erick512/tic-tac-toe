@@ -1,2 +1,3 @@
-# tic-tac-toe
-Tic Tac Toe Game
+# Tic Tac Toe
+
+Tic Tac toe game with OOP
