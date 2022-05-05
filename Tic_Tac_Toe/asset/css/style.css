@@ -14,7 +14,7 @@ main > h1 {
 }
 
 .board{
-    width: 766px;
+    width: 618px;
     display: flex;
     flex-wrap: wrap;
     margin: auto;
@@ -23,15 +23,15 @@ main > h1 {
 
 section > li {
     display: flex;
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
     background-color: white;
     border: 3px solid black;
     list-style: none;
     align-items: center;
     justify-content: center;
     color: black;
-    font-size: 250px;
+    font-size: 150px;
 }
 
 li:hover{
@@ -40,7 +40,7 @@ li:hover{
 
 footer {
     margin: auto;
-    width: 766px;
+    width: 618px;
     display: flex;
     padding-top: 20px;
     align-items: center;
@@ -48,7 +48,7 @@ footer {
 }
 
 button {
-    font-size: 50px;
+    font-size: 40px;
     width: 150px;
     border-radius: 10px;
     background-color: greenyellow;
@@ -63,5 +63,5 @@ button:hover{
 footer > h3 {
     display: inline-block;
     color: white;
-    font-size: 65px;
+    font-size: 50px;
 }

@@ -19,7 +19,7 @@ class Board {
        }
        
        this.peice == 'X' ? this.peice = 'O' : this.peice = 'X'
-       document.querySelector('h3').innerHTML = `${game.peice}' turn!`
+       document.querySelector('h3').innerHTML = `${game.peice}'s turn!`
     }
 
     checkForWin(){
